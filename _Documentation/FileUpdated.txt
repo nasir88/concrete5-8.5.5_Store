@@ -1,10 +1,6 @@
-Admin | K@cang_123
-Nasir | 12345678
-
-
+***************************************
 **Search 'NSR' To Check Coding Changes
-
-
+***************************************
 
 Concrete (CORE) :
 1. concrete\elements\page_controls_footer.php
@@ -19,7 +15,6 @@ Concrete (CORE) :
 
 Application (ADD) :
 1. application\controllers\my_controllers
-
 
 
 Packages (INSTALL) :
