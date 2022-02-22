@@ -1,0 +1,28 @@
+Admin | K@cang_123
+Nasir | 12345678
+
+
+**Search 'NSR' To Check Coding Changes
+
+
+
+Concrete (CORE) :
+1. concrete\elements\page_controls_footer.php
+2. concrete\config\concrete.php
+3. concrete\themes\dashboard\elements\header.php
+4. concrete\views\panels\add.php
+5. concrete\src\Block\Menu\Menu.php
+6. concrete\themes\concrete\elements\header.php
+7. concrete\single_pages\dashboard\system\basics\name.php
+
+
+
+Application (ADD) :
+1. application\controllers\my_controllers
+
+
+
+Packages (INSTALL) :
+1. packages\my_theme
+2. packages\landing_pages
+3. packages\page_redirect
